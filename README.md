@@ -5,7 +5,13 @@ This project aims to find out the best possible way to predict Breast Cancer usi
 The datasets used for this project are the Wisconsin Diagnostic and Wisconsin Prognostic Datasets which are available on the UCI Machine Learning Repository. The data in the Dataset has been calculated by measuring the dimensions of the High-Resolution scans of the tissue.
 
 ## Methodology
-1. Data Prerocessing
+1. Data Preprocessing
 2. Data Visualization
-3. K-Flod Cross-Validation
+3. K-Fold Cross-Validation
 4. Model Fitting and Evaluation
+
+## Timeline
+1. no oversampling (all columns)
+2. no oversampling (dropping columns)
+3. oversampling (all columns)
+4. oversampling (dropping columns)
