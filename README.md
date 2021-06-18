@@ -11,7 +11,7 @@ The datasets used for this project are the Wisconsin Diagnostic and Wisconsin Pr
 4. Model Fitting and Evaluation
 
 ## Timeline
-1. no oversampling (all columns)
-2. no oversampling (dropping columns)
-3. oversampling (all columns)
-4. oversampling (dropping columns)
+1. No Oversampling 1 (all columns)
+2. No oversampling 2 (dropping columns)
+3. Oversampling 1 (all columns)
+4. Oversampling 2 (dropping columns)
